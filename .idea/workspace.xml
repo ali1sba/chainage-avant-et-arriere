@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5ad03cb-f9a1-451a-9c08-004e99aad849" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="246UH5GHl04LuJlknJBXGDpGn90" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="testt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5ad03cb-f9a1-451a-9c08-004e99aad849" name="Default Changelist" comment="" />
+      <created>1642950438769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642950438769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="129" key="GridCell.Tab.0.bottom" timestamp="1642970049508">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1642970049508" />
+    <state width="1493" height="129" key="GridCell.Tab.0.center" timestamp="1642970049508">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1642970049508" />
+    <state width="1493" height="129" key="GridCell.Tab.0.left" timestamp="1642970049508">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1642970049508" />
+    <state width="1493" height="129" key="GridCell.Tab.0.right" timestamp="1642970049508">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="129" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1642970049508" />
+  </component>
+</project>
